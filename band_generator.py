@@ -12,5 +12,5 @@ pet_name = input("What is you pet's name?\n")
 
 #print band name
 
-print("You should name you band the " + city_name + " " + pet_name)
+print("You should name your band the " + city_name + " " + pet_name)
 

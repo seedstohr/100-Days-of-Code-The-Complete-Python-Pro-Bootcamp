@@ -38,7 +38,7 @@ move_cpu = random.randint(0,2)
 print("the computer chose")
 print(moves[move_cpu])
 
-if move_player >3 or move_player < 0:
+if move_player >=3 or move_player < 0:
     print("your move is invalid start over.")
 elif move_player == 0 and move_cpu == 2:
     print("you win.")

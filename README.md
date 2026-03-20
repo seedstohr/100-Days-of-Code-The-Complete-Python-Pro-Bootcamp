@@ -10,3 +10,6 @@ Learned about data types, strings, intergers, floats and booleans. Learned about
 
 Learned about number manipulation and assignment operators. Learned about fstrings. Created a tip calculator.
 
+# Day 3
+
+Learned about if else statements. Learned about comparison and modulo opertators. Learned about elif. Learned about logical operators and, or, and not. 

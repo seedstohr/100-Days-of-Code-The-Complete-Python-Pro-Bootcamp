@@ -17,3 +17,7 @@ Learned about if else statements. Learned about comparison and modulo opertators
 # Day 4
 
 Learned about randomisation and list. Learned about modules.
+
+# Day 5
+
+Learned about Loops. Learned about sum, max and range. Learned about random.choice() ans shuffle. Also, learned about * spe=.

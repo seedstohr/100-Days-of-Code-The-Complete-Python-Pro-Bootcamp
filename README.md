@@ -25,3 +25,8 @@ Learned about Loops. Learned about sum, max and range. Learned about random.choi
 # Day 6 
 
 Learned about functions. Learned about indentation and while loops. 
+
+# Day 7
+
+Went overflow charts. Made a hangman game and iterated on it.
+

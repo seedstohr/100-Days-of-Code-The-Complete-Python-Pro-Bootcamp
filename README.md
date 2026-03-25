@@ -21,3 +21,7 @@ Learned about randomisation and list. Learned about modules.
 # Day 5
 
 Learned about Loops. Learned about sum, max and range. Learned about random.choice() ans shuffle. Also, learned about * spe=.
+
+# Day 6 
+
+Learned about functions. Learned about indentation and while loops. 

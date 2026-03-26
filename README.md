@@ -30,3 +30,6 @@ Learned about functions. Learned about indentation and while loops.
 
 Went overflow charts. Made a hangman game and iterated on it.
 
+# Day 8
+
+Learnes about functions with more than one parameter. Learned about positinal and keyword arguments. Learned about list.index().

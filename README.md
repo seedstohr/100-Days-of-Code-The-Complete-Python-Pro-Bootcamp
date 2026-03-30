@@ -32,4 +32,13 @@ Went overflow charts. Made a hangman game and iterated on it.
 
 # Day 8
 
-Learnes about functions with more than one parameter. Learned about positinal and keyword arguments. Learned about list.index().
+Learned about functions with more than one parameter. Learned about positinal and keyword arguments. Learned about list.index().
+
+# Day 9
+
+Learned about dictionaries and neesting. 
+
+# Day 10
+
+Learned about functions with outputs and recursive functions. Learned about docstrings. Learned about return.
+

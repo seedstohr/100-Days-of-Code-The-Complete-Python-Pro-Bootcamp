@@ -42,3 +42,6 @@ Learned about dictionaries and neesting.
 
 Learned about functions with outputs and recursive functions. Learned about docstrings. Learned about return.
 
+# Day 11
+
+Created a Black Jack game.

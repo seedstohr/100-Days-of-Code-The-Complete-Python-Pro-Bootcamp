@@ -45,3 +45,8 @@ Learned about functions with outputs and recursive functions. Learned about docs
 # Day 11
 
 Created a Black Jack game.
+
+# Day 12
+
+Learned about local and global scopes. Learned about namespaces. Learned about global constants.
+

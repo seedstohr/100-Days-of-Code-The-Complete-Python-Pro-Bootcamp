@@ -50,3 +50,6 @@ Created a Black Jack game.
 
 Learned about local and global scopes. Learned about namespaces. Learned about global constants.
 
+# Day 13
+
+Learned about debugging. 

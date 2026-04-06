@@ -53,3 +53,7 @@ Learned about local and global scopes. Learned about namespaces. Learned about g
 # Day 13
 
 Learned about debugging. 
+
+# Day 14
+
+Created Higher Lower game.

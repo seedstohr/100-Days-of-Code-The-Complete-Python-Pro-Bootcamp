@@ -57,3 +57,7 @@ Learned about debugging.
 # Day 14
 
 Created Higher Lower game.
+
+# Day 15
+
+Made a coffee maker.

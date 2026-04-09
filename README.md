@@ -65,3 +65,8 @@ Made a coffee maker.
 # Day 16
 
 Made a coffee maker with object oriented programming. 
+
+# Day 17
+
+Learned about creating Classes, Methods, and Attributes.
+ 

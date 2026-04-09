@@ -61,3 +61,7 @@ Created Higher Lower game.
 # Day 15
 
 Made a coffee maker.
+
+# Day 16
+
+Made a coffee maker with object oriented programming. 

@@ -70,3 +70,6 @@ Made a coffee maker with object oriented programming.
 
 Learned about creating Classes, Methods, and Attributes.
  
+# Day 18
+
+Learned about tuples. Learned about Turtle Graphics and importing modules.

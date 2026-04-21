@@ -73,3 +73,7 @@ Learned about creating Classes, Methods, and Attributes.
 # Day 18
 
 Learned about tuples. Learned about Turtle Graphics and importing modules.
+
+# Day 19
+
+Learned about instances, states, and higher order functions.

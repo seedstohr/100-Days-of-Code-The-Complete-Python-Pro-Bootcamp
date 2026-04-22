@@ -77,3 +77,7 @@ Learned about tuples. Learned about Turtle Graphics and importing modules.
 # Day 19
 
 Learned about instances, states, and higher order functions.
+
+# Day 20
+
+Created the first half of a snake game.

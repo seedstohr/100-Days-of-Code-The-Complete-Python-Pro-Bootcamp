@@ -81,3 +81,7 @@ Learned about instances, states, and higher order functions.
 # Day 20
 
 Created the first half of a snake game.
+
+# Day 21
+
+Learned about class inheritance. Learned about slicing. Finished snake game.

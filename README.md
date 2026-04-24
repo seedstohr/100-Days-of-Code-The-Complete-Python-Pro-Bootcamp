@@ -85,3 +85,7 @@ Created the first half of a snake game.
 # Day 21
 
 Learned about class inheritance. Learned about slicing. Finished snake game.
+
+# Day 22 
+
+Made a pong game.

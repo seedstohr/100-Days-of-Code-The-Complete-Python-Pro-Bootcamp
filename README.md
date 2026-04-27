@@ -89,3 +89,8 @@ Learned about class inheritance. Learned about slicing. Finished snake game.
 # Day 22 
 
 Made a pong game.
+
+# Day 23
+
+Made Turtle Crossy Game. Capstone project.
+

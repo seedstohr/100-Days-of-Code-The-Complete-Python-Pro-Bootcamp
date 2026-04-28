@@ -94,3 +94,6 @@ Made a pong game.
 
 Made Turtle Crossy Game. Capstone project.
 
+# Day 24
+
+Learned about File, Paths, and Directories. Learned about open and with open.

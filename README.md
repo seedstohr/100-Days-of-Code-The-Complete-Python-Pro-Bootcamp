@@ -101,3 +101,7 @@ Learned about File, Paths, and Directories. Learned about open and with open.
 # Day 25
 
 Learned about Pandas module and the csv format.
+
+# Day 26
+
+Learned about list and dictionary comprehension. Learned about iterrow() in pandas.

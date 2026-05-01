@@ -105,3 +105,7 @@ Learned about Pandas module and the csv format.
 # Day 26
 
 Learned about list and dictionary comprehension. Learned about iterrow() in pandas.
+
+# Day 27
+
+Learned about Tkinter, Learned about advanced arguments, *args', **kwargs, and unlimited conditional arguments. 

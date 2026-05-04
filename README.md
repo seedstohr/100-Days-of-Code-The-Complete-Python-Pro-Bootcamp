@@ -109,3 +109,7 @@ Learned about list and dictionary comprehension. Learned about iterrow() in pand
 # Day 27
 
 Learned about Tkinter, Learned about advanced arguments, *args', **kwargs, and unlimited conditional arguments. 
+
+# Day 28
+
+Learned about the canvas widget in tkinter.

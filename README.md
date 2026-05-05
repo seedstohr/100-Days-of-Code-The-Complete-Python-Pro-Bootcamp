@@ -113,3 +113,6 @@ Learned about Tkinter, Learned about advanced arguments, *args', **kwargs, and u
 # Day 28
 
 Learned about the canvas widget in tkinter.
+
+# Day 29
+Learned about tkinter messagebox, tkinter entry insert and learned about pyperclip.

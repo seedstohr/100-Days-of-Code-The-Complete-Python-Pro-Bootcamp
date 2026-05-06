@@ -116,3 +116,7 @@ Learned about the canvas widget in tkinter.
 
 # Day 29
 Learned about tkinter messagebox, tkinter entry insert and learned about pyperclip.
+
+# Day 30
+
+Learned about Error types. Learned about try, except, else and finally. Learner about raising own exceptions.

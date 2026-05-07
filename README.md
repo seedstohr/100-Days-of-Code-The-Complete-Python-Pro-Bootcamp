@@ -120,3 +120,7 @@ Learned about tkinter messagebox, tkinter entry insert and learned about pypercl
 # Day 30
 
 Learned about Error types. Learned about try, except, else and finally. Learner about raising own exceptions.
+
+# Day 31
+
+Capstone project, flash cards.

@@ -124,3 +124,7 @@ Learned about Error types. Learned about try, except, else and finally. Learner 
 # Day 31
 
 Capstone project, flash cards.
+
+# Day 32
+
+Learned about smtplib and datetime. 

@@ -128,3 +128,7 @@ Capstone project, flash cards.
 # Day 32
 
 Learned about smtplib and datetime. 
+
+# Day 33 
+
+Learned about API endpoints and parameters.

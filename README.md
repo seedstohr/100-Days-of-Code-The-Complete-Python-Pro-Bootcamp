@@ -132,3 +132,9 @@ Learned about smtplib and datetime.
 # Day 33 
 
 Learned about API endpoints and parameters.
+
+# Day 34
+
+Learned about type hints and arrows.
+
+

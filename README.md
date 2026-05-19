@@ -141,3 +141,7 @@ Learned about type hints and arrows.
 # Day 35
 
 Learned about API keys, API authentication, and enviroment variables. 
+
+# Day 36
+
+Created a stock news app.

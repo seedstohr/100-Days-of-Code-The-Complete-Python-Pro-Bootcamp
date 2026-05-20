@@ -145,3 +145,7 @@ Learned about API keys, API authentication, and enviroment variables.
 # Day 36
 
 Created a stock news app.
+
+# Day 37
+
+Learned about advance authentication through headers. Learned about put, post, delete. 

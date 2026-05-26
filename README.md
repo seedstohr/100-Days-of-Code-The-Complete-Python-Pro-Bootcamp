@@ -149,3 +149,7 @@ Created a stock news app.
 # Day 37
 
 Learned about advance authentication through headers. Learned about put, post, delete. 
+
+# Day 38
+
+Made a fitness tracking app.

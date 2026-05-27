@@ -153,3 +153,7 @@ Learned about advance authentication through headers. Learned about put, post, d
 # Day 38
 
 Made a fitness tracking app.
+
+# Day 39
+
+Capstone project, flight finder, day one.

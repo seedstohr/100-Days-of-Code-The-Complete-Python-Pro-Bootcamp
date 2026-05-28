@@ -157,3 +157,7 @@ Made a fitness tracking app.
 # Day 39
 
 Capstone project, flight finder, day one.
+
+# Day 40
+
+Updated day 39's project to intake user information from a google sheet and send emails.

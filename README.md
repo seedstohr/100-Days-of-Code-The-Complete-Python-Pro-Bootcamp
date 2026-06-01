@@ -165,3 +165,7 @@ Updated day 39's project to intake user information from a google sheet and send
 # Day 41
 
 Learned basic HTML tags.
+
+#Day 42
+
+Learned html lists, anchor tags and image tags.

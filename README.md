@@ -169,3 +169,7 @@ Learned basic HTML tags.
 #Day 42
 
 Learned html lists, anchor tags and image tags.
+
+#Day 43
+
+Learned  basic CSS including internal, external and inline. Learned selectors. 

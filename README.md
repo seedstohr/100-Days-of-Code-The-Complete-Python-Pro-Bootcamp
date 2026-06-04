@@ -173,3 +173,7 @@ Learned html lists, anchor tags and image tags.
 #Day 43
 
 Learned  basic CSS including internal, external and inline. Learned selectors. 
+
+#Day 44
+
+Learned about CSS Colors. Learned about Font properties. Learned about Margin, Padding and Borders.

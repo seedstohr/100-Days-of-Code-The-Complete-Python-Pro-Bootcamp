@@ -177,3 +177,7 @@ Learned  basic CSS including internal, external and inline. Learned selectors.
 #Day 44
 
 Learned about CSS Colors. Learned about Font properties. Learned about Margin, Padding and Borders.
+
+#Day 45
+
+Learned about web scraping. Learned about BeautifulSoup.

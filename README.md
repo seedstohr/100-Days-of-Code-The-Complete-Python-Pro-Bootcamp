@@ -185,3 +185,7 @@ Learned about web scraping. Learned about BeautifulSoup.
 #Day 46
 
 Created a app that takes a year, month and day and grabs the top 100 songs from that time and adds it to a playlist. 
+
+#Day 47
+
+Made an Amazon price tracker.

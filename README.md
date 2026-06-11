@@ -193,3 +193,7 @@ Made an Amazon price tracker.
 #Day 48
 
 Learned about Selenium Web Driver. 
+
+#Day 49
+
+Created a gym booking bot.

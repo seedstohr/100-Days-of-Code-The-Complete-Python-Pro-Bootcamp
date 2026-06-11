@@ -1,0 +1,10 @@
+2026/06/11-09:43:25.737 14d1b4 Reusing MANIFEST /media/data/100-Days-of-Code-The-Complete-Python-Pro-Bootcamp/workout_class_booking/chrome_profile/Default/IndexedDB/https_appbrewery.github.io_0.indexeddb.leveldb/MANIFEST-000001
+2026/06/11-09:43:25.737 14d1b4 Recovering log #18
+2026/06/11-09:43:25.738 14d1b4 Reusing old log /media/data/100-Days-of-Code-The-Complete-Python-Pro-Bootcamp/workout_class_booking/chrome_profile/Default/IndexedDB/https_appbrewery.github.io_0.indexeddb.leveldb/000018.log 
+2026/06/11-09:44:27.752 14d1b6 Level-0 table #25: started
+2026/06/11-09:44:27.783 14d1b6 Level-0 table #25: 833162 bytes OK
+2026/06/11-09:44:27.784 14d1b6 Delete type=0 #18
+2026/06/11-09:44:27.787 14d1b6 Compacting 1@1 + 1@2 files
+2026/06/11-09:44:27.798 14d1b6 Generated table #26@1: 7840 keys, 334690 bytes
+2026/06/11-09:44:27.798 14d1b6 Compacted 1@1 + 1@2 files => 334690 bytes
+2026/06/11-09:44:27.799 14d1b6 compacted to: files[ 0 0 1 0 0 0 0 ]
